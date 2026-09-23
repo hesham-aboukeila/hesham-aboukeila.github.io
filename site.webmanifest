@@ -1,0 +1,13 @@
+{
+  "name": "Hesham Aboukeila | Polymer & Materials Engineer",
+  "short_name": "Hesham Aboukeila",
+  "description": "Polymer and materials engineering portfolio focused on sustainable packaging, circular materials, and polymer processing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06172c",
+  "theme_color": "#06172c",
+  "icons": [
+    {"src": "/favicon-32x32.png", "sizes": "32x32", "type": "image/png"},
+    {"src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
