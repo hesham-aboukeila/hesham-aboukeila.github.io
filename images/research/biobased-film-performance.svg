@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Biobased blown-film performance comparison</title><desc id="desc">PPeAT has three times the modulus, 3.4 times lower carbon dioxide permeability, and approximately five times lower water-vapor transmission than PBAT.</desc>
+  <rect width="1000" height="520" rx="28" fill="#071a31"/><text x="64" y="70" fill="#66d6ef" font-family="Arial" font-size="18" font-weight="700" letter-spacing="3">RESEARCH SNAPSHOT</text>
+  <text x="64" y="116" fill="#fff" font-family="Arial" font-size="30" font-weight="700">Blown-film performance versus commercial PBAT</text>
+  <g font-family="Arial"><text x="64" y="183" fill="#b8c9dc" font-size="17">Young's modulus, MD</text><rect x="300" y="158" width="170" height="34" rx="6" fill="#37506d"/><rect x="300" y="203" width="520" height="34" rx="6" fill="#4dcce8"/><text x="484" y="181" fill="#fff" font-size="16">PBAT 43.2 MPa</text><text x="834" y="226" fill="#fff" font-size="16">PPeAT 131.7 MPa</text>
+  <text x="64" y="303" fill="#b8c9dc" font-size="17">CO₂ permeability</text><rect x="300" y="278" width="520" height="34" rx="6" fill="#37506d"/><rect x="300" y="323" width="151" height="34" rx="6" fill="#4dcce8"/><text x="834" y="301" fill="#fff" font-size="16">PBAT 14.80 Barrer</text><text x="465" y="346" fill="#fff" font-size="16">PPeAT 4.31</text>
+  <text x="64" y="423" fill="#b8c9dc" font-size="17">Water-vapor transmission</text><rect x="300" y="398" width="520" height="34" rx="6" fill="#37506d"/><rect x="300" y="443" width="102" height="34" rx="6" fill="#4dcce8"/><text x="834" y="421" fill="#fff" font-size="16">PBAT 10.86</text><text x="416" y="466" fill="#fff" font-size="16">PPeAT 2.14</text></g>
+  <text x="936" y="487" text-anchor="end" fill="#7590ad" font-family="Arial" font-size="13">Values reported in Aboukeila et al., 2026</text>
+</svg>
