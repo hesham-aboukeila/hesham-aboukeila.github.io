@@ -17,3 +17,6 @@
 .nav-linkedin{display:none}.hero-location{display:grid;grid-template-columns:max-content max-content;align-items:center;column-gap:22px;margin:18px 0 0;color:#d8e5f3;font-size:13px;font-weight:700;line-height:1.5;letter-spacing:.04em}.hero-location span{position:relative;display:block;white-space:nowrap}.hero-location span+span:before{content:"·";position:absolute;left:-14px;color:var(--cyan)}.hero-actions{align-items:center}.hero-linkedin{display:inline-flex;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--cyan);font-size:14px;font-weight:700}.hero-linkedin span{color:var(--cyan)}
 @media(max-width:900px){.site-header.open nav .nav-linkedin{display:block}.hero-location{grid-template-columns:1fr;row-gap:5px}.hero-location span{width:100%}.hero-location span+span:before{display:none}}
 @media(max-width:600px){.eyebrow{line-height:1.6}.hero-actions{align-items:stretch}.hero-linkedin{align-self:flex-start;margin-top:5px}}
+
+/* The location is already stated in the hero copy. Keep only the scroll cue at the footer edge. */
+.hero-foot{justify-content:flex-end}
